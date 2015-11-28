@@ -17,3 +17,4 @@ Important Notes:
 1. This phone may or may not have mobile minutes (probably not). You will need to use your own wifi, or free wifi from Starbucks or McDonalds.
 2. Bitcoins CAN be lost or stolen! If you remove the back cover from the phone you will find some information that will help you to recover the bitcoins. You will see 12 words that will restore a Mycelium wallet. Don't worry about that now.
 3. This device may stop working completely if the batter is drained to 0%. It would be wise to shut it off when not in use and charge it regularly.
+
