@@ -8,17 +8,19 @@ Bitcoin has huge potential with people of little means to conduct personal banki
 
 ## The tools
 
-Begin with an android device that has been factory reset and cleared of any carrier bloatware.
+Begin with an android device that has been factory reset and cleared of any carrier bloatware. I have added links to the files, but I encourage you to install using the Google Play store so the end user will get updates.
 
-* Bitholla
-* Reddit broswer
-* Gyft
-* Mycelium Wallet
-* Circle Wallet (?)
-* Readme file
-* Introduction Video
+* [READ_THIS.txt](READ_THIS.txt] - an introduction to the phone that will be linked on the home screen
+* [Bitholla](https://play.google.com/store/apps/details?id=com.me.bit.bitme) - Bitholla is the geolocation send/receive app (not a wallet)
+* [Reddit broswer](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) - Reddit is fun to develop community
+* [Gyft](https://play.google.com/store/apps/details?id=com.gyft.android) - Practical use of bitcoin
+* [Mycelium Wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) - The primary bitcoin wallet on the device
+* [Circle Wallet](https://play.google.com/store/apps/details?id=com.circle.android) - Some people will want to link to banking
+* Introduction Video - Morgan Spurlock - Inside Man - Bitcoin. Source this on your own, or choose an alternative.
 
 ## Device Setup
+
+![Example homescreen](iab.png)
 
 1. Turn the device on airplane mode but enable wifi.
 2. Create a google account with a memorable name and secure password. I suggest making a physical copy of this username and password and somehow pasting it/taping to to the outside of the device.
