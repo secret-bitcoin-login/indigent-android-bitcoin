@@ -4,7 +4,7 @@ A guide to setting up a stock android device as a mobile bitcoin appliance for p
 
 ## The scenario
 
-Bitcoin has huge potential with people of little means to conduct personal banking and exchange. The barrier to entry has been helping these people understand bitcoin and finding a way to help them earn bitcoin. If these people were displayed as a list in an app, it would be easier to provide tips, wages, and gifts just by looking at their names on the screen. The bitholla app adds this functionality by providing a geolocated list of persons.
+Bitcoin has huge potential with people of little means to conduct personal banking and exchange. The barriers to entry have been helping those in need understand bitcoin and finding a way to help them earn/receive bitcoin. If givers could easily view those in need, it would be easier to provide tips, wages, and gifts just by looking at their names on the screen. The bitholla app adds this functionality by providing a geolocated list of persons.
 
 ## The tools
 
