@@ -10,7 +10,7 @@ Bitcoin has huge potential with people of little means to conduct personal banki
 
 Begin with an android device that has been factory reset and cleared of any carrier bloatware. I have added links to the files, but I encourage you to install using the Google Play store so the end user will get updates.
 
-* [READ_THIS.txt](READ_THIS.txt] - an introduction to the phone that will be linked on the home screen
+* [READ_THIS.txt](READ_THIS.txt) - an introduction to the phone that will be linked on the home screen
 * [Bitholla](https://play.google.com/store/apps/details?id=com.me.bit.bitme) - Bitholla is the geolocation send/receive app (not a wallet)
 * [Reddit broswer](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) - Reddit is fun to develop community
 * [Gyft](https://play.google.com/store/apps/details?id=com.gyft.android) - Practical use of bitcoin
