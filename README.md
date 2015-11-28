@@ -12,7 +12,7 @@ Begin with an android device that has been factory reset and cleared of any carr
 
 * [READ_THIS.txt](https://raw.githubusercontent.com/secret-bitcoin-login/indigent-android-bitcoin/master/READ_THIS.txt) - an introduction to the phone that will be linked on the home screen
 * [Bitholla](https://play.google.com/store/apps/details?id=com.me.bit.bitme) - Bitholla is the geolocation send/receive app (not a wallet)
-* [Reddit broswer](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) - Reddit is fun to develop community
+* [Reddit browser](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) - Reddit is fun to develop community
 * [Gyft](https://play.google.com/store/apps/details?id=com.gyft.android) - Practical use of bitcoin
 * [Mycelium Wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) - The primary bitcoin wallet on the device
 * [Circle Wallet](https://play.google.com/store/apps/details?id=com.circle.android) - Some people will want to link to banking
