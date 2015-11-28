@@ -24,3 +24,9 @@ Begin with an android device that has been factory reset and cleared of any carr
 
 1. Turn the device on airplane mode but enable wifi.
 2. Create a google account with a memorable name and secure password. I suggest making a physical copy of this username and password and somehow pasting it/taping to to the outside of the device.
+
+## About Bitholla
+
+This github has absolutely no affiliation with bitholla other than product interest. I have considered asking those in need to set up a bitholla account with a suffix "_ind" to indicate that they are indigent and accepting donations. This is a screenshot of the giving interface:
+
+![Bitholla giving interface](bitholla.png)
