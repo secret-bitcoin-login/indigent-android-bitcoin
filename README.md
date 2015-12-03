@@ -6,7 +6,7 @@ A guide to setting up a stock android device as a mobile bitcoin appliance for p
 
 This project participates in [Tip4Commit](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin). Feel free to submit pull requests, or contribute to the project by donating to [1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC](bitcoin://1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC)
 
-![Tip4Commit](https://tip4commit.com/projects/43146.svg)
+[![tip for next commit](https://tip4commit.com/projects/43146.svg)](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin)
 
 ## The scenario
 
