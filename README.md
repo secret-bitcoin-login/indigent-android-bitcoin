@@ -2,6 +2,10 @@
 
 A guide to setting up a stock android device as a mobile bitcoin appliance for people with few resources. The initial target is to provide a smooth process for panhandlers to receive bitcoin tips.
 
+## Tip4Commit
+
+This project participates in [Tip4Commit](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin). Feel free to submit pull requests, or contribute to the project by donating to [1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC](bitcoin://1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC)
+
 ## The scenario
 
 Bitcoin has huge potential with people of little means to conduct personal banking and exchange. The barriers to entry have been helping those in need understand bitcoin and finding a way to help them earn/receive bitcoin. If givers could easily view those in need, it would be easier to provide tips, wages, and gifts just by looking at their names on the screen. The bitholla app adds this functionality by providing a geolocated list of persons.
