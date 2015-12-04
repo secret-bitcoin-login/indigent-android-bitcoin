@@ -4,11 +4,11 @@ This phone is more than it appears. When this phone was first donated it had abo
 
 If you look a the homescreen, you'll see an icon called "inside_man", it's a tv program about bitcoin - i would encourage you to begin by watching that. It runs about 42 minutes, so get comfortable.
 
-Next, you you can open the Mycelium app on the homescreen. As soon as you open this app you'll see the current balance. Because bitcoin is a different currency than US Dollars, the value of bitcoin changes often compared to US Dollars - this isn't a bad thing - the value may increase over time.
+Next, you you can open the Mycelium app on the homescreen. As soon as you open this app you'll see the current balance. Because bitcoin is a different currency than US Dollars, the value of bitcoin will change often compared to US Dollars - this isn't a bad thing - the value may increase over time.
 
-I believe the most important appication on this device is called "bitholla". Bitholla is a way you can receive bitcoin from anyone, anywhere, anytime. When someone gives you bitcoins through bitholla it will show up in your Mycelium wallet. You can also use bitholla as a gateway to give bitcoins to other people.
+I believe the most important application on this device is called "bitholla". Bitholla is a way you can receive bitcoin from anyone, anywhere, anytime. When someone gives you bitcoins through bitholla it will show up in your Mycelium wallet. You can also use bitholla as a gateway to give bitcoins to other people.
 
-You will find an application called "Gyft". Gyft is a service that lets you use bitcoins to buy gift cards at lots of different places. You can search through the list of stores, but I think you might be interested in stores like Target and Burger King.
+Now that you have bitcoins, you might wonder how you can spend them to buy things - You will find an application called "Gyft". Gyft is a service that lets you use bitcoins to buy gift cards at lots of different places. You can search through the list of stores, but I think you might be interested in stores like Target and Burger King. In addition to buying gift cards, you can use bitholla and Mycelium to send bitcoins to other people in exchange for goods and services.
 
 The picture of the blue alien app, Reddit is Fun, is a link to a reddit account with your username and a link to the community for our city. Feel free to get involved, post, respond, as you see fit.
 
@@ -16,5 +16,5 @@ Important Notes:
 
 1. This phone may or may not have mobile minutes (probably not). You will need to use your own wifi, or free wifi from Starbucks or McDonalds.
 2. Bitcoins CAN be lost or stolen! If you remove the back cover from the phone you will find some information that will help you to recover the bitcoins. You will see 12 words that will restore a Mycelium wallet. Don't worry about that now.
-3. This device may stop working completely if the batter is drained to 0%. It would be wise to shut it off when not in use and charge it regularly.
+3. This device may stop working completely if the battery is drained to 0%. It would be wise to shut it off when not in use and charge it regularly.
 
