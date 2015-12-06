@@ -4,9 +4,9 @@ A guide to setting up a stock android device as a mobile bitcoin appliance for p
 
 ## Tip4Commit
 
-This project participates in [Tip4Commit](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin). Feel free to submit pull requests, or contribute to the project by donating to [1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC](bitcoin://1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC)
+~~This project participates in [Tip4Commit](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin). Feel free to submit pull requests, or contribute to the project by donating to [1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC](bitcoin://1JmQ9va35LJsmw8ob7seXDnz5Jzfo42NqC)~~
 
-[![tip for next commit](https://tip4commit.com/projects/43146.svg)](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin)
+[![tip for next commit](https://tip4commit.com/projects/43146.svg)](https://tip4commit.com/github/secret-bitcoin-login/indigent-android-bitcoin) (This has been set up but doesn't appear to be functioning correctly)
 
 ## The scenario
 
@@ -22,7 +22,9 @@ Begin with an android device that has been factory reset and cleared of any carr
 * [Gyft](https://play.google.com/store/apps/details?id=com.gyft.android) - Practical use of bitcoin
 * [Mycelium Wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) - The primary bitcoin wallet on the device
 * [Circle Wallet](https://play.google.com/store/apps/details?id=com.circle.android) - Some people will want to link to banking
-* Introduction Video - Morgan Spurlock - Inside Man - Bitcoin. Source this on your own, or choose an alternative.
+* Introduction Video - Morgan Spurlock - "Inside Man" S03E05 - Bitcoin. Source this on your own, or choose an alternative.
+* ES File Exlorer
+* Nova Launcher
 
 ## Device Setup
 
@@ -34,9 +36,14 @@ Begin with an android device that has been factory reset and cleared of any carr
 3. Set up a Bitholla account, in the username, append _ind to any name you choose, this will help others know that the phone is requesting indigent donations. Use the mycelium account to fund the bitholla account. (Bitholla is NOT a wallet, it is a convenience layer.)
 4. Set up a reddit account using the same username. Unsubscribe from the defaults, and subscribe to /r/btc and your local reddits.
 5. Set up a Gyft account and connect it to the G+ account.
+6. Clear the desktop and install a simple launcher (Nova launcher?)
+7. Find a way to get the [READ_THIS.txt](https://raw.githubusercontent.com/secret-bitcoin-login/indigent-android-bitcoin/master/READ_THIS.txt) file on the phone - it may be easiest to download from the github, I use adb.
+7. Open ES File explorer and create shortcuts on the desktop for READ_THIS.txt and the morgan spurlock "Inside Man" episode.
 
 ## About Bitholla
 
 This github has absolutely no affiliation with bitholla other than product interest. I have considered asking those in need to set up a bitholla account with a suffix "_ind" to indicate that they are indigent and accepting donations. This is a screenshot of the giving interface:
 
-![Bitholla giving interface](bitholla.png)
+## The project in use
+
+* Please share details of any examples and we'll post them here.
