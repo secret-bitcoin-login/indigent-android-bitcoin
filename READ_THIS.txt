@@ -2,11 +2,11 @@ Hello!
 
 This phone is more than it appears. When this phone was first donated it had about $25 worth of bitcoin stored on it, you can check that inside of the Mycelium bitcoin wallet application. Bitcoin is a digital currency that is not controlled by any government (or person) and can be spent using computers and cell phones.
 
-If you look a the homescreen, you'll see an icon called "inside_man", it's a tv program about bitcoin - i would encourage you to begin by watching that. It runs about 42 minutes, so get comfortable.
+If you look a the homescreen, you'll see an icon called "inside_bitcoin", it's a tv program about bitcoin - i would encourage you to begin by watching that. It runs about 42 minutes, so get comfortable.
 
 To go further, you'll need to be connnected to wifi somehow - I can't tell you where to find wifi, but you can connect by opening Settings > Wi-Fi.
 
-Next, you you can open the Mycelium app on the homescreen. As soon as you open this app you'll see the current balance. Because bitcoin is a different currency than US Dollars, the value of bitcoin will change often compared to US Dollars - this isn't a bad thing - the value may increase over time.
+Next, you can open the Mycelium app on the homescreen. As soon as you open this app you'll see the current balance. Because bitcoin is a different currency than US Dollars, the value of bitcoin will change often compared to US Dollars - this isn't a bad thing - the value may increase over time.
 
 I believe the most important application on this device is called "bitholla". Bitholla is a way you can receive bitcoin from anyone, anywhere, anytime. When someone gives you bitcoins through bitholla it will show up in your Mycelium wallet. You can also use bitholla as a gateway to give bitcoins to other people.
 
