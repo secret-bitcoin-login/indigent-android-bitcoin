@@ -37,7 +37,7 @@ Begin with an android device that has been factory reset and cleared of any carr
 3. Set up a mycelium account. Make physical backup of the seed for the end user and store in with the device.
 3. Set up a Bitholla account, in the username, append _ind to any name you choose, this will help others know that the phone is requesting indigent donations. Use the mycelium account to fund the bitholla account. (Bitholla is NOT a wallet, it is a convenience layer.)
 4. Set up a reddit account using the same username. Unsubscribe from the defaults, and subscribe to /r/btc and your local reddits.
-5. Set up a Gyft account and connect it to the G+ account.
+5. Set up a Gyft account and connect it to the Google+ account.
 6. Clear the desktop and install a simple launcher (Nova launcher?)
 7. Find a way to get the [READ_THIS.txt](https://raw.githubusercontent.com/secret-bitcoin-login/indigent-android-bitcoin/master/READ_THIS.txt) file on the phone - it may be easiest to download from the github, I use adb.
 7. Open ES File explorer and create shortcuts on the desktop for READ_THIS.txt and the morgan spurlock "Inside Man" episode.
