@@ -25,6 +25,7 @@ Begin with an android device that has been factory reset and cleared of any carr
 * Introduction Video - Morgan Spurlock - "Inside Man" S03E05 - Bitcoin. Source this on your own, or choose an alternative.
 * ES File Exlorer
 * Nova Launcher
+* Consider filling additional space with games (TBD. Input from knowledable gamers about small footprint games that don't require WiFi would be helpful).
 
 Need to add a WiFi finding service, currently experimenting with Instabridge. Please provide any ideas or useful information.
 
