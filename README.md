@@ -26,6 +26,8 @@ Begin with an android device that has been factory reset and cleared of any carr
 * ES File Exlorer
 * Nova Launcher
 
+Need to add a WiFi finding service, currently experimenting with Instabridge. Please provide any ideas or useful information.
+
 ## Device Setup
 
 ![Example homescreen](iab.png)
