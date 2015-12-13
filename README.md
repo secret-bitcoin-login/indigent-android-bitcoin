@@ -23,11 +23,10 @@ Begin with an android device that has been factory reset and cleared of any carr
 * [Mycelium Wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) - The primary bitcoin wallet on the device
 * [Circle Wallet](https://play.google.com/store/apps/details?id=com.circle.android) - Some people will want to link to banking
 * Introduction Video - Morgan Spurlock - "Inside Man" S03E05 - Bitcoin. Source this on your own, or choose an alternative.
-* ES File Exlorer
-* Nova Launcher
-* Consider filling additional space with games (TBD. Input from knowledable gamers about small footprint games that don't require WiFi would be helpful).
-
-Need to add a WiFi finding service, currently experimenting with Instabridge. Please provide any ideas or useful information.
+* [ES File Exlorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop) - This allows you to select a file and easily create a link to the desktop
+* [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - A good simple launcher that isn't difficult to use
+* Consider filling additional space with games (TBD. Input from knowledable gamers about small footprint games that don't require WiFi would be helpful - This is a great opportunity for someone who wants a Tip4Commit!)
+* Need to add a WiFi finding service, currently experimenting with [Instabridge](https://play.google.com/store/apps/details?id=com.instabridge.android). Please provide any ideas or useful information.
 
 ## Device Setup
 
@@ -45,7 +44,11 @@ Need to add a WiFi finding service, currently experimenting with Instabridge. Pl
 
 ## About Bitholla
 
-This github has absolutely no affiliation with bitholla other than product interest. I have considered asking those in need to set up a bitholla account with a suffix "_ind" to indicate that they are indigent and accepting donations. This is a screenshot of the giving interface:
+This github has absolutely no affiliation with bitholla other than product interest. I have considered asking those in need to set up a bitholla account with a suffix "_ind" to indicate that they are indigent and accepting donations. 
+
+## Media Coverage
+
+[Bitholla for the Homeless: Why One Mystery Man Gives Away His Bitcoin](https://news.bitcoin.com/bitholla-homeless-one-mystery-man-gives-away-bitcoin/)
 
 ## The project in use
 
