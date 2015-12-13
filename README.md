@@ -44,7 +44,7 @@ Begin with an android device that has been factory reset and cleared of any carr
 
 ## About Bitholla
 
-This github has absolutely no affiliation with bitholla other than product interest. I have considered asking those in need to set up a bitholla account with a suffix "_ind" to indicate that they are indigent and accepting donations. 
+This github has absolutely no affiliation with bitholla other than product interest. You can reach out to bitholla at http://bitholla.io
 
 ## Media Coverage
 
