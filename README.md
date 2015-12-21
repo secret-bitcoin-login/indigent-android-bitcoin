@@ -25,7 +25,7 @@ Begin with an android device that has been factory reset and cleared of any carr
 * Introduction Video - Morgan Spurlock - "Inside Man" S03E05 - Bitcoin. Source this on your own, or choose an alternative.
 * [ES File Exlorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop) - This allows you to select a file and easily create a link to the desktop
 * [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) - A good simple launcher that isn't difficult to use
-* Consider filling additional space with games (TBD. Input from knowledable gamers about small footprint games that don't require WiFi would be helpful - This is a great opportunity for someone who wants a Tip4Commit!)
+* [Offline Street Maps](https://play.google.com/store/apps/details?id=cz.aponia.bor3.offlinemaps) - Open Streetmaps offline maps - be sure to download your current area maps during setup.
 * Need to add a WiFi finding service, currently experimenting with [Instabridge](https://play.google.com/store/apps/details?id=com.instabridge.android). Please provide any ideas or useful information.
 
 ## Device Setup
